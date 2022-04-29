@@ -8,8 +8,8 @@
 #### Agora digite:
 	$ ./p
 
-###Funções.h:
-####Contém as bibliotecas usadas, as variáveis globais, as threads usadas e a struct dados com os dados das threads sensores. 
+### Funções.h:
+#### Contém as bibliotecas usadas, as variáveis globais, as threads usadas e a struct dados com os dados das threads sensores. 
 
 função main:
 	Inicializa os dados de todas as threads sensores e cria as threads necessárias
