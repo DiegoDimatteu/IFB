@@ -3,13 +3,13 @@
   - Diego Gabriel Prata Juliano Dimatteu Telles
   - Ygor Henrique Germano Silva
 
-### Para rodar o programa, abra o terminal, entre na pasta do trabalho, após isso digite 
+#### Para rodar o programa, abra o terminal, entre na pasta do trabalho, após isso digite 
 	$ gcc main.c funcoes.c -o p -pthread
 #### Agora digite:
 	$ ./p
 
-Funções.h
-	Contém as bibliotecas usadas, as variáveis globais, as threads usadas e a struct dados com os dados das threads sensores. 
+###Funções.h:
+####Contém as bibliotecas usadas, as variáveis globais, as threads usadas e a struct dados com os dados das threads sensores. 
 
 função main:
 	Inicializa os dados de todas as threads sensores e cria as threads necessárias
