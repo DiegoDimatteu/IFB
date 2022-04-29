@@ -1,7 +1,7 @@
-Alunos:
-Caio Mariano Borges Silva
-Diego Gabriel Prata Juliano Dimatteu Telles
-Ygor Henrique Germano Silva
+# Alunos:
+	Caio Mariano Borges Silva
+	Diego Gabriel Prata Juliano Dimatteu Telles
+	Ygor Henrique Germano Silva
 
 Para rodar o programa, abra o terminal, entre na pasta do trabalho, após isso digite "gcc main.c funcoes.c -o p -pthread" e aperte enter. Agora digite "./p" e aperte enter.
 
